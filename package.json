@@ -18,7 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "commander": "4.1.0",
-    "jimp": "0.9.3",
+    "jimp": "0.22.7",
     "rimraf": "3.0.0"
   }
 }
